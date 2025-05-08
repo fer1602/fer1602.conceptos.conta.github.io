@@ -1,0 +1,72 @@
+[
+  {
+    "categoria": "Introducción",
+    "pregunta": "¿Cuál es la función principal de la contabilidad?",
+    "respuesta": "Registrar, clasificar y resumir operaciones financieras",
+    "incorrecta1": "Crear presupuestos gubernamentales",
+    "incorrecta2": "Diseñar productos financieros",
+    "incorrecta3": "Auditar exclusivamente grandes empresas",
+    "imagen": "https://static.vecteezy.com/system/resources/previews/000/495/409/non_2x/register-line-black-icon-vector.jpg",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Método Contable",
+    "pregunta": "¿Qué principio utiliza el método contable?",
+    "respuesta": "La partida doble",
+    "incorrecta1": "La contabilidad binaria",
+    "incorrecta2": "El principio universal",
+    "incorrecta3": "La fórmula financiera única",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSwe3Czs8cwXDchUYhAurvtW3K11ig0peSCg&s",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Registro Cronológico",
+    "pregunta": "¿Cómo deben registrarse las operaciones en contabilidad?",
+    "respuesta": "En el orden exacto en que ocurren",
+    "incorrecta1": "Según la prioridad financiera",
+    "incorrecta2": "De forma aleatoria",
+    "incorrecta3": "Al final de cada mes",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0wuPq1luL6KCrq_Csm67UpIEQ89DHfHYGnA&s",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Contabilidad en la Empresa",
+    "pregunta": "¿Qué función NO cumple la contabilidad en la empresa?",
+    "respuesta": "Desarrollar campañas publicitarias",
+    "incorrecta1": "Evaluar rentabilidad",
+    "incorrecta2": "Controlar recursos",
+    "incorrecta3": "Cumplir obligaciones fiscales",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNjERBxDnLnnYZoeiIGywYr2JIJd2bEYwxpQ&s",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Finalidad",
+    "pregunta": "¿Para qué sirven los registros contables?",
+    "respuesta": "Para tomar decisiones y mejorar el rendimiento",
+    "incorrecta1": "Para eliminar procedimientos antiguos",
+    "incorrecta2": "Para almacenar datos sin uso",
+    "incorrecta3": "Para diseñar sistemas informáticos",
+    "imagen": "https://definicion.de/wp-content/uploads/2014/02/registro-contable.jpg",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Finalidad",
+    "pregunta": "¿Qué es un procedimiento en contabilidad?",
+    "respuesta": "Un método de ejecutar algunas cosas",
+    "incorrecta1": "Un documento legal",
+    "incorrecta2": "Un gasto financiero",
+    "incorrecta3": "Una estrategia de marketing",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTREUU9z-Oe3qtNHbz_e49LhKSMdK2FZbQTcg&s",
+    "objectFit": "contain"
+  },
+  {
+    "categoria": "Finalidad",
+    "pregunta": "¿Qué es un sistema en el contexto contable?",
+    "respuesta": "Conjunto de reglas o procedimientos enlazados",
+    "incorrecta1": "Una red de computadoras",
+    "incorrecta2": "Un plan de negocios",
+    "incorrecta3": "Un software de diseño gráfico",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRijNsWVIG5TVxPR1hBf4FsvtCajLgHNdrQfQ&s",
+    "objectFit": "contain"
+  }
+]
